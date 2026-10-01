@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Saad Alburaiki - Resume</title>
+</head>
+<body>
+
+  <h1>Saad Alburaiki</h1>
+  <p>Management Information Systems (MIS) Student</p>
+
+  <h2>Contact Information</h2>
+  <ul>
+    <li>Email: <a href="mailto:Alburaikisaad@gmail.com">Alburaikisaad@gmail.com</a></li>
+    <li>Phone: 055 690 1671</li>
+    <li>Location: Khobar, Saudi Arabia</li>
+  </ul>
+
+  <hr>
+
+  <h2>Profile</h2>
+  <p>
+    I am a Management Information Systems student at Prince Mohammad Bin Fahd University.
+    I am interested in technology and how it helps businesses. I am learning new skills
+    every day and I am looking for a chance to gain experience.
+  </p>
+
+  <hr>
+
+  <h2>Education</h2>
+  <h3>Bachelor of Science in Management Information Systems</h3>
+  <p>Prince Mohammad Bin Fahd University (PMU), Al Khobar, Saudi Arabia</p>
+  <p>Expected graduation: August 2027</p>
+
+  <h3>Courses I Have Taken</h3>
+  <ul>
+    <li>Building E-Commerce</li>
+    <li>System analysis&design</li>
+    <li>Intermediate Program For Mis</li>
+  </ul>
+
+  <hr>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Basic HTML</li>
+    <li>Html</li>
+    <li>C#</li>
+    <li>Teamwork</li>
+    <li>Communication</li>
+    <li>Arabic: Native</li>
+    <li>English: Intermediate</li>
+  </ul>
+
+  <hr>
+
+  <h2>Projects</h2>
+
+  <h3>HTML Resume Webpage</h3>
+  <p>
+    A resume webpage I built for my Building E-Commerce course using only HTML.
+    I used headings, paragraphs, lists, and links.
+  </p>
+
+
+  <hr>
+
+  <h2>Certifications and Activities</h2>
+  <ul>
+    <li>Member of Mis Club At PMU</li>
+  </ul>
+
+  <hr>
+
+  <h2>References</h2>
+  <p>[Reference Name], [Job Title], [Organization]<br>
+  Email: Alburaikisaad@gmail.com | Phone: +966556901671</p>
+
+</body>
+</html>
